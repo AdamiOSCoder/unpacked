@@ -1,6 +1,6 @@
 class HttpUrl{
   //基地址
-  static String host = "http://ec2-3-238-27-48.compute-1.amazonaws.com:8080";
+  static String host = "https://ec2-3-238-27-48.compute-1.amazonaws.com:8443";
   //static String host = "http://unpacked.ml:8";
   //static String host = "https://springboot-unpacked.herokuapp.com";
   //登录
