@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "9094aacdae789dccd67fa32109ff1a18",
-"index.html": "b04e7793cbaa56f2fe785b45abf0ab43",
-"/": "b04e7793cbaa56f2fe785b45abf0ab43",
-"main.dart.js": "fe70d24de3afd4283dc17a928b9d9b22",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"index.html": "37f606714e39b33514374d8cf3855776",
+"/": "37f606714e39b33514374d8cf3855776",
+"main.dart.js": "3815c19c813519490d7d00010b4c7061",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "logo.png": "26c8bf4d404cb7d921f79e5e104153fb",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,11 +21,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/error.png": "34a3c86257800bf5e90595c112370b19",
 "assets/assets/icons/logo.png": "26c8bf4d404cb7d921f79e5e104153fb",
-"assets/assets/icons/wechatme.jpeg": "a1a5c40640f6bf2fd39bf80e02272a64",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/icons/wechatme.jpeg": "a1a5c40640f6bf2fd39bf80e02272a64"
 };
 
 // The application shell files that are downloaded before a service worker can
